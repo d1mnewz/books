@@ -13,9 +13,14 @@
 * "Dynamic Programming for Coding Interviews: A Bottom-Up Approach to Problem Solving" by Kamal Rawat and Meenakshi
 * "Programming Interviews Exposed: Secrets to Landing Your Next Job" by John Mongan, Noah Suojanen Kindler, Eric GiguÃ¨re 
 * "Enterprise Integration Patterns" by Gregor Hohpe and Bobby Woolf 
+* "CQRS Journey" by Microsoft Corporation
+* "CQRS Documents" by Greg Young
+* "Designing Distributed Systems: Patterns and paradigms for scalable, reliable services" by Brendan Burns
 
 # In queue:
 * "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
 * "Refactoring: Improving the Design of Existing Code" by Martin Fowler
 * "The Art of Readable Code: Simple and Practical Techniques for Writing Better Code" by Dustin Boswell
 * "Functional Programming in Scala" by Paul Chiusano and Rúnar Bjarnason
+* "Analysis patterns: Reusable object models" by Martin Fowler
+
